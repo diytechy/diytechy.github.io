@@ -31,6 +31,7 @@ ui:
   bundle:
     url: ui-bundle
     snapshot: true
+  supplemental_files:
   - path: ui.yml
     contents: |
       static_files:
