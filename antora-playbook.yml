@@ -1,7 +1,6 @@
 site:
   title: diytechyTestPage
   # the 404 page and sitemap files only get generated when the url property is set
-  url: diytechy.github.io
   start_page: component-a::index.adoc
 content:
   sources:
